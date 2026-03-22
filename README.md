@@ -3,20 +3,20 @@
 
 ## 🚀 Project Overview
 
-The **Library Book Management System** is a backend application built using **FastAPI** that allows a library to manage books, borrowing activities, and member interactions efficiently.
+The Library Book Management System is a backend application built using FastAPI that helps manage books, borrowing activities, and member interactions efficiently.
 
-This project was developed as part of the **FastAPI Internship Final Project**, where core backend concepts such as API design, validation, CRUD operations, workflows, filtering, searching, sorting, and pagination were implemented.
+This system demonstrates core backend concepts such as API design, request validation, CRUD operations, workflow handling, filtering, searching, sorting, and pagination.
 
-The system simulates a real-world library backend by allowing users to:
+It simulates how a real-world library backend works by allowing users to:
 
-* View available books
-* Borrow books
-* Return books
-* Join a waiting queue when books are unavailable
-* Search and filter books
-* Browse books using sorting and pagination
+View available books
+Borrow books
+Return books
+Join a waiting queue when books are unavailable
+Search and filter books
+Browse books using sorting and pagination
 
-All APIs were tested using **Swagger UI**.
+All APIs are tested using Swagger UI for easy interaction and verification.
 
 ---
 
