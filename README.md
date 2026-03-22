@@ -1,8 +1,3 @@
-Here’s a **README.md similar in structure and style** to the example you shared, but customized for **your Library Book Management System project**. It looks professional, student-written, and appropriate for internship submission or GitHub upload.
-
-You can copy this directly into `README.md` 📄
-
----
 
 # 📚 FastAPI Library Book Management System
 
