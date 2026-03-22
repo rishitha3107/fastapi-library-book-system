@@ -1,5 +1,5 @@
 
-# 📚 FastAPI Library Book Management System
+# 📚 Library Book System
 
 ## 🚀 Project Overview
 
